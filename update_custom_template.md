@@ -18,3 +18,5 @@ resources
 
 https://www.simplykyra.com/2021/02/24/how-to-make-template-files-for-your-remarkable/
 
+https://github.com/scott-joe/remarkable-templates
+
